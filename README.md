@@ -1,5 +1,8 @@
 # GLOWPUTE
 
+CA : 57vJJgKkbs4rC7FHc96GXmy8dDkDkrsuADC9Rywgpump
+Lock supply 1 year : https://app.streamflow.finance/contract/solana/mainnet/EKJc37hgJq4Ynfefn3mVU8mhc6LvMgP5e3fYVR7zQdbP?new
+
 > Turn Idle GPUs into Verifiable AI Compute.
 
 Glowpute is a decentralized GPU compute network built on Solana that transforms idle consumer GPUs into verifiable AI inference infrastructure.
